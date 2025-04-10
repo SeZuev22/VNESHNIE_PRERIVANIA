@@ -24,6 +24,8 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+
+// ПРОВЕРКА ГИТХАБ
 #include "stdio.h"
 #include "string.h"
 /* USER CODE END Includes */
